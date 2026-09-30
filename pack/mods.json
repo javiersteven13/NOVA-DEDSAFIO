@@ -1,0 +1,106 @@
+{
+  "pack": "DEDSAFIO AMIGOS",
+  "version": "1.0.0",
+  "minecraft": "1.20.1",
+  "forge": "47.4.23",
+  "mods": [
+    {
+      "file": "alexscaves-2.0.2.jar",
+      "name": "Alex's Caves",
+      "version": "2.0.2",
+      "size": 74871657,
+      "md5": "6c8793ee5e1aa852fdb430a9cdaccdc5",
+      "license": "LGPL"
+    },
+    {
+      "file": "citadel-2.6.3-1.20.1.jar",
+      "name": "Citadel",
+      "version": "2.6.3",
+      "size": 3185275,
+      "md5": "da80c09b998d829b6d580e5be76dcc7b",
+      "license": "LGPL"
+    },
+    {
+      "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
+      "name": "Clumps",
+      "version": "12.0.0.4",
+      "size": 20299,
+      "md5": "c9efc71827df6ab51e8dd0e40c3d4975",
+      "license": "MIT"
+    },
+    {
+      "file": "curios-forge-5.14.1+1.20.1.jar",
+      "name": "Curios API",
+      "version": "5.14.1",
+      "size": 398066,
+      "md5": "2fdcc97cbc66c4b2492b407c792e7159",
+      "license": "LGPL-3.0-or-later"
+    },
+    {
+      "file": "dedsafioadmin-1.2.0.jar",
+      "name": "DEDSAFIO Admin Panel",
+      "version": "1.2.0",
+      "size": 14485,
+      "md5": "b23e0afa99828860be0841e0c38d1228",
+      "license": "All Rights Reserved",
+      "private": true
+    },
+    {
+      "file": "embeddium-0.3.31+mc1.20.1.jar",
+      "name": "Embeddium",
+      "version": "0.3.31",
+      "size": 1320675,
+      "md5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+      "license": "LGPL-3.0-only"
+    },
+    {
+      "file": "ferritecore-6.0.1-forge.jar",
+      "name": "FerriteCore",
+      "version": "6.0.1",
+      "size": 123034,
+      "md5": "f52f538207a4829d7060550092ce2383",
+      "license": "MIT"
+    },
+    {
+      "file": "invexp-forge-1.20.1-1.5.5.jar",
+      "name": "Inventory Expansion",
+      "version": "1.5.5",
+      "size": 788621,
+      "md5": "919a9ad36611021a0f10ee0f92f3c492",
+      "license": "MIT"
+    },
+    {
+      "file": "lionfishapi-3.0.jar",
+      "name": "Lionfish API",
+      "version": "3.0",
+      "size": 101931,
+      "md5": "76af08dd2f58d5557d13162d855f4cc9",
+      "license": "LGPL"
+    },
+    {
+      "file": "L_Enders_Cataclysm-3.31.jar",
+      "name": "L_Ender's Cataclysm",
+      "version": "3.31",
+      "size": 73916104,
+      "md5": "a296c93419f679f0da7100da6e6e35af",
+      "license": "VERIFY_UPSTREAM"
+    },
+    {
+      "file": "modernfix-forge-5.27.83+mc1.20.1.jar",
+      "name": "ModernFix",
+      "version": "5.27.83",
+      "size": 1003230,
+      "md5": "4222bb91833300504e3c0773aae1d999",
+      "license": "LGPL-3.0"
+    },
+    {
+      "file": "sacos-1.0.0.jar",
+      "name": "Sacos",
+      "version": "1.0.0",
+      "size": 540913,
+      "md5": "94f5c8c1f3b7bef9365f9de8c030649b",
+      "license": "All Rights Reserved",
+      "private": true
+    }
+  ]
+}
