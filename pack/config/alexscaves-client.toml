@@ -1,0 +1,18 @@
+[visuals]
+cave_maps_visible_in_third_person = true
+screen_shaking = true
+emissive_block_models = true
+nuclear_bomb_flash = true
+biome_ambient_light = true
+biome_ambient_light_coloring = true
+biome_sky_overrides = true
+biome_sky_fog_overrides = true
+ambersol_shines = true
+radiation_glow_effect = true
+subterranodon_indicator_x = 22
+subterranodon_indicator_y = 6
+sugar_rush_saturation_effect = true
+
+[audio]
+nuclear_bomb_muffles_sounds = true
+
