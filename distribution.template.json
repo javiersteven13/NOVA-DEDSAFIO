@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "DEDSAFIO_AMIGOS",
+      "name": "DEDSAFIO AMIGOS",
+      "description": "Servidor oficial de DEDSAFIO AMIGOS",
+      "version": "1.0.0",
+      "address": "PENDIENTE_DIRECCION_PUBLICA_DEL_SERVIDOR",
+      "minecraftVersion": "1.20.1",
+      "mainServer": true,
+      "autoconnect": true,
+      "javaOptions": {
+        "supported": ">=17 <18",
+        "suggestedMajor": 17,
+        "ram": {
+          "recommended": 4096,
+          "minimum": 2048
+        }
+      },
+      "modules": []
+    }
+  ]
+}
