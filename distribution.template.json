@@ -6,7 +6,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "Servidor oficial de DEDSAFIO AMIGOS",
       "version": "1.0.0",
-      "address": "PENDIENTE_DIRECCION_PUBLICA_DEL_SERVIDOR",
+      "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
       "autoconnect": true,
