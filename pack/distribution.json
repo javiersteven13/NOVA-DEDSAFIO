@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -803,13 +803,13 @@
           }
         },
         {
-          "id": "com.dedsafio:dedsafiozoneguard:1.0.6@jar",
+          "id": "com.dedsafio:dedsafiozoneguard:1.0.7@jar",
           "name": "DEDSAFIO Zona Segura y Robot",
           "type": "ForgeMod",
           "artifact": {
-            "size": 25794,
-            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.6.jar",
-            "MD5": "637ba929dc572d741f6534487ec443c9"
+            "size": 25776,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.7.jar",
+            "MD5": "75aaf9896f2dd06a56bc93e556345b12"
           }
         }
       ]

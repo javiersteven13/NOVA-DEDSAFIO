@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "distributionUrl": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json",
   "files": [
     {
@@ -33,12 +33,6 @@
       "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves-client.toml",
       "encoding": "text",
       "md5": "912d7d5aa7b7b7666ccbc12f6e3c4300"
-    },
-    {
-      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-general.toml",
-      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves-general.toml",
-      "encoding": "text",
-      "md5": "17906a83ca1a375d69a55ce43ade486e"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/cataclysm-client.toml",
@@ -159,11 +153,24 @@
       "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiozoneguard-1.0.6.jar.b64",
       "encoding": "base64",
       "md5": "637ba929dc572d741f6534487ec443c9"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiozoneguard-1.0.7.jar.b64",
+      "encoding": "base64",
+      "md5": "75aaf9896f2dd06a56bc93e556345b12"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-general.toml",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves-general.toml",
+      "encoding": "text",
+      "md5": "da6883e8fc9595b332c8c1f6b63b4cb4"
     }
   ],
   "remove": [
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.2.0.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.0.0.jar",
-    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.5.jar"
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.5.jar",
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.6.jar"
   ]
 }
