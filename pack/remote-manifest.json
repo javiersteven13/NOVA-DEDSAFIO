@@ -2,7 +2,7 @@
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
   "version": "1.0.8",
-  "distributionUrl": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json",
+  "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafio-lives-hud-1.0.0.jar",
@@ -150,13 +150,13 @@
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.8.jar",
-      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiozoneguard-1.0.8.jar.b64",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiozoneguard-1.0.8.jar.b64?ref=main",
       "encoding": "base64",
       "md5": "e91f786f6dbaaa8eb84fce2b008cfd2b"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-general.toml",
-      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves-general.toml",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/alexscaves-general.toml?ref=main",
       "encoding": "text",
       "md5": "da6883e8fc9595b332c8c1f6b63b4cb4"
     }
