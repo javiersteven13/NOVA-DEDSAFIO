@@ -803,13 +803,13 @@
           }
         },
         {
-          "id": "com.dedsafio:dedsafiozoneguard:1.0.7@jar",
+          "id": "com.dedsafio:dedsafiozoneguard:1.0.8@jar",
           "name": "DEDSAFIO Zona Segura y Robot",
           "type": "ForgeMod",
           "artifact": {
-            "size": 25776,
-            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.7.jar",
-            "MD5": "75aaf9896f2dd06a56bc93e556345b12"
+            "size": 25794,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.8.jar",
+            "MD5": "e91f786f6dbaaa8eb84fce2b008cfd2b"
           }
         }
       ]
