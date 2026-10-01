@@ -593,9 +593,9 @@
                                             "name":  "alexscaves-client.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  1900,
+                                                             "size":  1863,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-client.toml",
-                                                             "MD5":  "74e71cbc05402bd28f07a68bb7d11687",
+                                                             "MD5":  "912d7d5aa7b7b7666ccbc12f6e3c4300",
                                                              "path":  "config/alexscaves-client.toml"
                                                          }
                                         },
@@ -604,9 +604,9 @@
                                             "name":  "alexscaves-general.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  6084,
+                                                             "size":  5964,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-general.toml",
-                                                             "MD5":  "8c8e7794b876e01d3facffcea3f2e91b",
+                                                             "MD5":  "17906a83ca1a375d69a55ce43ade486e",
                                                              "path":  "config/alexscaves-general.toml"
                                                          }
                                         },
@@ -681,9 +681,9 @@
                                             "name":  "cataclysm-client.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  527,
+                                                             "size":  505,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/cataclysm-client.toml",
-                                                             "MD5":  "676259b1095f9d2141fc0c8270bee2c9",
+                                                             "MD5":  "257aa56453ae0a1ab86182f1ab6cc33a",
                                                              "path":  "config/cataclysm-client.toml"
                                                          }
                                         },
@@ -692,9 +692,9 @@
                                             "name":  "cataclysm-common.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  26343,
+                                                             "size":  25302,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/cataclysm-common.toml",
-                                                             "MD5":  "0cba3aee73812aebbe8cf519f5a4338f",
+                                                             "MD5":  "5946020970ee70dd3ce60b0feed2dc3d",
                                                              "path":  "config/cataclysm-common.toml"
                                                          }
                                         },
@@ -703,9 +703,9 @@
                                             "name":  "citadel-common.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  648,
+                                                             "size":  634,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/citadel-common.toml",
-                                                             "MD5":  "f211eac94129201b25acdeee49218d43",
+                                                             "MD5":  "66394be32f3098f5834620143d4209f8",
                                                              "path":  "config/citadel-common.toml"
                                                          }
                                         },
@@ -714,9 +714,9 @@
                                             "name":  "curios-client.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  706,
+                                                             "size":  681,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/curios-client.toml",
-                                                             "MD5":  "67aaec1814836fed2d3e021c29ef6848",
+                                                             "MD5":  "3cde5ba3046c45106bb76330afc51f28",
                                                              "path":  "config/curios-client.toml"
                                                          }
                                         },
@@ -725,9 +725,9 @@
                                             "name":  "curios-common.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  161,
+                                                             "size":  154,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/curios-common.toml",
-                                                             "MD5":  "4e1978c603823135e91f736983a96649",
+                                                             "MD5":  "0908f415872a378c8cb385f7a0e32868",
                                                              "path":  "config/curios-common.toml"
                                                          }
                                         },
@@ -747,9 +747,9 @@
                                             "name":  "embeddium-mixins.properties",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  269,
+                                                             "size":  268,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/embeddium-mixins.properties",
-                                                             "MD5":  "a9176524f816153a7967217b53bb75a1",
+                                                             "MD5":  "0e395d3a6826a60aa598551a4e195dc1",
                                                              "path":  "config/embeddium-mixins.properties"
                                                          }
                                         },
@@ -769,9 +769,9 @@
                                             "name":  "ferritecore-mixin.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  1516,
+                                                             "size":  1491,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/ferritecore-mixin.toml",
-                                                             "MD5":  "ab9006eb6d50292a11f757c0ae658ac0",
+                                                             "MD5":  "524a16dd4fb95142f5bf0fdf152fdd84",
                                                              "path":  "config/ferritecore-mixin.toml"
                                                          }
                                         },
@@ -780,9 +780,9 @@
                                             "name":  "ferritecore.mixin.properties",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  815,
+                                                             "size":  802,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/ferritecore.mixin.properties",
-                                                             "MD5":  "d8fbc071aa2480c358ddc5636fb1d8e1",
+                                                             "MD5":  "2fa000922ca87e753a679d6b54d9a18b",
                                                              "path":  "config/ferritecore.mixin.properties"
                                                          }
                                         },
@@ -791,9 +791,9 @@
                                             "name":  "modernfix-common.toml",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  107,
+                                                             "size":  102,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/modernfix-common.toml",
-                                                             "MD5":  "1d50de2e9c0bda2952844de7a3306d10",
+                                                             "MD5":  "a8ec9ff54e1e46f290864b7b4fa98aab",
                                                              "path":  "config/modernfix-common.toml"
                                                          }
                                         },
@@ -802,9 +802,9 @@
                                             "name":  "modernfix-mixins.properties",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  6643,
+                                                             "size":  6642,
                                                              "url":  "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/files/config/modernfix-mixins.properties",
-                                                             "MD5":  "e45e143ab517790502cbb3c9e3ce3d72",
+                                                             "MD5":  "6e4a3a3e982e100a9bd2a84c3080f6cf",
                                                              "path":  "config/modernfix-mixins.properties"
                                                          }
                                         }
