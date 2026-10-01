@@ -801,6 +801,16 @@
             "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/AutomaVillager-Forge-1.20.1-47.4.23.jar",
             "MD5": "a0cf206836fac68c6458eb3d91b2e504"
           }
+        },
+        {
+          "id": "com.dedsafio:dedsafiozoneguard:1.0.6@jar",
+          "name": "DEDSAFIO Zona Segura y Robot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25794,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.6.jar",
+            "MD5": "637ba929dc572d741f6534487ec443c9"
+          }
         }
       ]
     }

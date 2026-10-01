@@ -99,6 +99,12 @@
       "size": 13199,
       "md5": "a0cf206836fac68c6458eb3d91b2e504",
       "sha256": "fd06d710d70aa473fbddd5f1ea6be2f9d09fcfae34d12698169bf744358e6eeb"
+    },
+    {
+      "file": "dedsafiozoneguard-1.0.6.jar",
+      "size": 25794,
+      "md5": "637ba929dc572d741f6534487ec443c9",
+      "sha256": "983838f18c162561a5e184ac3748e5ccd79bf6f5127d73123f1898cd87b8f8c3"
     }
   ]
 }

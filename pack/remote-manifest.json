@@ -153,10 +153,17 @@
       "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/automa-villager-updated.jar.b64",
       "encoding": "base64",
       "md5": "a0cf206836fac68c6458eb3d91b2e504"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.6.jar",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiozoneguard-1.0.6.jar.b64",
+      "encoding": "base64",
+      "md5": "637ba929dc572d741f6534487ec443c9"
     }
   ],
   "remove": [
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.2.0.jar",
-    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.0.0.jar"
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.0.0.jar",
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.5.jar"
   ]
 }
