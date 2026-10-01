@@ -1,8 +1,9 @@
 {
-  "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.0",
-  "minecraft": "1.20.1",
-  "forge": "47.4.23",
-  "server": "rails-xm.tun.ply.gg",
-  "modCount": 12
+    "pack":  "DEDSAFIO AMIGOS",
+    "version":  "1.0.3",
+    "minecraft":  "1.20.1",
+    "forge":  "47.4.23",
+    "server":  "rails-xm.tun.ply.gg",
+    "modCount":  15,
+    "distribution":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json"
 }
