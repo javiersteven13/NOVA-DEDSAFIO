@@ -1,150 +1,150 @@
 {
-    "schema":  2,
+    "schema":  3,
     "pack":  "DEDSAFIO AMIGOS",
     "version":  "1.0.4",
-    "distributionUrl":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json",
+    "distributionUrl":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
     "files":  [
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafio-lives-hud-1.0.0.jar",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafio-lives-hud-1.0.0.jar.b64",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafio-lives-hud-1.0.0.jar.b64?ref=main",
                       "encoding":  "base64",
                       "md5":  "799513d49096c3a0fad9f29f577beef7"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.3.0.jar",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafioadmin-1.3.0.jar.b64",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.3.0.jar.b64?ref=main",
                       "encoding":  "base64",
                       "md5":  "2e77677f025bbe0a86002b358bad8bd4"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocore-1.0.0.jar",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiocore-1.0.0.jar.b64",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiocore-1.0.0.jar.b64?ref=main",
                       "encoding":  "base64",
                       "md5":  "96ff5071c5ee981195e7bfa3b7fc939b"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.1.0.jar",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/sacos-1.1.0.jar.b64",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/sacos-1.1.0.jar.b64?ref=main",
                       "encoding":  "base64",
                       "md5":  "d915ecbd28e61fcb8c16c8029b30a9f8"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-client.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves-client.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "74e71cbc05402bd28f07a68bb7d11687"
+                      "md5":  "912d7d5aa7b7b7666ccbc12f6e3c4300"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-general.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves-general.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "8c8e7794b876e01d3facffcea3f2e91b"
+                      "md5":  "17906a83ca1a375d69a55ce43ade486e"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/cataclysm-client.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/cataclysm-client.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "676259b1095f9d2141fc0c8270bee2c9"
+                      "md5":  "257aa56453ae0a1ab86182f1ab6cc33a"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/cataclysm-common.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/cataclysm-common.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "0cba3aee73812aebbe8cf519f5a4338f"
+                      "md5":  "5946020970ee70dd3ce60b0feed2dc3d"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/citadel-common.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/citadel-common.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "f211eac94129201b25acdeee49218d43"
+                      "md5":  "66394be32f3098f5834620143d4209f8"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/curios-client.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/curios-client.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "67aaec1814836fed2d3e021c29ef6848"
+                      "md5":  "3cde5ba3046c45106bb76330afc51f28"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/curios-common.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/curios-common.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "4e1978c603823135e91f736983a96649"
+                      "md5":  "0908f415872a378c8cb385f7a0e32868"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/embeddium-fingerprint.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/embeddium-fingerprint.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "095c341c0e016ba39e3ec613edb92769"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/embeddium-mixins.properties",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/embeddium-mixins.properties",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "a9176524f816153a7967217b53bb75a1"
+                      "md5":  "0e395d3a6826a60aa598551a4e195dc1"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/embeddium-options.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/embeddium-options.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "c0a96a9199ece4278654cf6e1fb2584c"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/ferritecore-mixin.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/ferritecore-mixin.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "ab9006eb6d50292a11f757c0ae658ac0"
+                      "md5":  "524a16dd4fb95142f5bf0fdf152fdd84"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/ferritecore.mixin.properties",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/ferritecore.mixin.properties",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "d8fbc071aa2480c358ddc5636fb1d8e1"
+                      "md5":  "2fa000922ca87e753a679d6b54d9a18b"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/modernfix-common.toml",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/modernfix-common.toml",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "1d50de2e9c0bda2952844de7a3306d10"
+                      "md5":  "a8ec9ff54e1e46f290864b7b4fa98aab"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/modernfix-mixins.properties",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/modernfix-mixins.properties",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
-                      "md5":  "e45e143ab517790502cbb3c9e3ce3d72"
+                      "md5":  "6e4a3a3e982e100a9bd2a84c3080f6cf"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves_biome_generation/abyssal_chasm.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves_biome_generation/abyssal_chasm.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "e2381ab2cc691c9380e20047894f2e92"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves_biome_generation/candy_cavity.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves_biome_generation/candy_cavity.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "83ee4999c8084d79129f0d8de26feadf"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves_biome_generation/forlorn_hollows.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves_biome_generation/forlorn_hollows.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "cb3ff6dc8f527e3ce4f20cf2615c194f"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves_biome_generation/magnetic_caves.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves_biome_generation/magnetic_caves.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "48aba76fb94fa1f7f24e3f6f4b1acd3f"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves_biome_generation/primordial_caves.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves_biome_generation/primordial_caves.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "700aa5a9fbdebeab8346509259372a27"
                   },
                   {
                       "path":  "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves_biome_generation/toxic_caves.json",
-                      "url":  "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/config/alexscaves_biome_generation/toxic_caves.json",
+                      "url":  "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/config/=main",
                       "encoding":  "text",
                       "md5":  "6b2614e0035375fb4a0c74190658db7d"
                   }
