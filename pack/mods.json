@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -96,9 +96,9 @@
     },
     {
       "file": "AutomaVillager-Forge-1.20.1-47.4.23.jar",
-      "size": 12555,
-      "md5": "0cdf04c22f88440448fc864ba347c74f",
-      "sha256": "8c4ca1c09799447f39087008e2542ceea9457071902af43148526eec8ff48119"
+      "size": 13199,
+      "md5": "a0cf206836fac68c6458eb3d91b2e504",
+      "sha256": "fd06d710d70aa473fbddd5f1ea6be2f9d09fcfae34d12698169bf744358e6eeb"
     }
   ]
 }

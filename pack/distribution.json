@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -797,9 +797,9 @@
           "name": "Automa Villager",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12555,
+            "size": 13199,
             "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/AutomaVillager-Forge-1.20.1-47.4.23.jar",
-            "MD5": "0cdf04c22f88440448fc864ba347c74f"
+            "MD5": "a0cf206836fac68c6458eb3d91b2e504"
           }
         }
       ]

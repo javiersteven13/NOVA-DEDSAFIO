@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "distributionUrl": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json",
   "files": [
     {
@@ -150,9 +150,9 @@
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/AutomaVillager-Forge-1.20.1-47.4.23.jar",
-      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/automa-villager-1.0.0.jar.b64",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/automa-villager-updated.jar.b64",
       "encoding": "base64",
-      "md5": "0cdf04c22f88440448fc864ba347c74f"
+      "md5": "a0cf206836fac68c6458eb3d91b2e504"
     }
   ],
   "remove": [
