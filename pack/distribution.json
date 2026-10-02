@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.9",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.7",
+      "version": "1.0.9",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -810,6 +810,26 @@
             "size": 25794,
             "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.8.jar",
             "MD5": "e91f786f6dbaaa8eb84fce2b008cfd2b"
+          }
+        },
+        {
+          "id": "curse.maven:server-waypoint-reworked-1719137:9017341@jar",
+          "name": "Server Waypoint Reworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 872228,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/server_waypoint-3.0.4-reworked-forge-mc1.20-1.20.1.jar",
+            "MD5": "1b60bb8f9d73544101d83c3d0e15b725"
+          }
+        },
+        {
+          "id": "maven.modrinth:1bokaNcj:Juh6inLY@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2195399,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-26.5.0.jar",
+            "MD5": "a56fe7d87668347d89c162e17ddcf03d"
           }
         }
       ]
