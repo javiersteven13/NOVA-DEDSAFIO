@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -169,6 +169,16 @@
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-26.5.0.jar",
       "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Juh6inLY/xaerominimap-forge-1.20.1-26.5.0.jar",
       "md5": "a56fe7d87668347d89c162e17ddcf03d"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar",
+      "md5": "44bb8a6e9634ca96bfab19e515db3318"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocrafting-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/mods/dedsafiocrafting-1.0.0.jar",
+      "md5": "4a926f21aacfce34fbb8cad48ab6d79e"
     }
   ],
   "remove": [

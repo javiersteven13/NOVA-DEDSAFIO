@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.9",
+      "version": "1.0.10",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -831,6 +831,30 @@
             "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-26.5.0.jar",
             "MD5": "a56fe7d87668347d89c162e17ddcf03d"
           }
+        },
+        {
+          "id": "mezz.jei:jei-1.20.1-forge:15.56.0.205@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "classpath": true,
+          "artifact": {
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/jei-1.20.1-forge-15.56.0.205.jar",
+            "MD5": "44bb8a6e9634ca96bfab19e515db3318",
+            "size": 1778129
+          },
+          "subModules": []
+        },
+        {
+          "id": "com.dedsafio.crafting:dedsafiocrafting:1.0.0@jar",
+          "name": "DEDSAFIO Crafteos",
+          "type": "ForgeMod",
+          "classpath": true,
+          "artifact": {
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocrafting-1.0.0.jar",
+            "MD5": "4a926f21aacfce34fbb8cad48ab6d79e",
+            "size": 8665
+          },
+          "subModules": []
         }
       ]
     }

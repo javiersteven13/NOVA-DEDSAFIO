@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -117,7 +117,19 @@
       "size": 2195399,
       "md5": "a56fe7d87668347d89c162e17ddcf03d",
       "sha256": "b21e1b4a13de533d0cf57d55969d5c83b3da78e8be44b93e76cddea9f6503d19"
+    },
+    {
+      "file": "jei-1.20.1-forge-15.56.0.205.jar",
+      "size": 1778129,
+      "md5": "44bb8a6e9634ca96bfab19e515db3318",
+      "sha256": "6b251e60a4719c874da89d750af97aa6498f6f4475e3ae79cb1288c7bf0cb65c"
+    },
+    {
+      "file": "dedsafiocrafting-1.0.0.jar",
+      "size": 8665,
+      "md5": "4a926f21aacfce34fbb8cad48ab6d79e",
+      "sha256": "e5e14b8adc9f3894b5017a77ca0ebb335f9c1cbcf535330981460fe368ff4461"
     }
   ],
-  "modCount": 19
+  "modCount": 21
 }
