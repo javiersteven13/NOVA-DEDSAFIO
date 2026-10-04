@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -149,10 +149,10 @@
       "md5": "a0cf206836fac68c6458eb3d91b2e504"
     },
     {
-      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.8.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiozoneguard-1.0.8.jar.b64?ref=main",
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.6.0.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiozoneguard-1.6.0.jar.b64?ref=main",
       "encoding": "base64",
-      "md5": "e91f786f6dbaaa8eb84fce2b008cfd2b"
+      "md5": "e11b6defeb85899ccbd07bdf311dd00c"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/files/config/alexscaves-general.toml",
@@ -197,6 +197,8 @@
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.5.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.6.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.7.jar",
-    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-25.3.5.jar"
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/xaerominimap-forge-1.20.1-25.3.5.jar",
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.0.8.jar"
   ]
 }
+
