@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -101,10 +101,10 @@
       "sha256": "fd06d710d70aa473fbddd5f1ea6be2f9d09fcfae34d12698169bf744358e6eeb"
     },
     {
-      "file": "dedsafiozoneguard-1.6.0.jar",
-      "size": 67150,
-      "md5": "e11b6defeb85899ccbd07bdf311dd00c",
-      "sha256": "3a078cfd5ae284b102f17ca01d55f7ea1c2892fdcb7a6b9c1df7bc05f06e0262"
+      "file": "dedsafiozoneguard-1.6.1.jar",
+      "size": 67203,
+      "md5": "8cbf32582bfd9b427eae4db3e890152a",
+      "sha256": "12018753f9e1b23f9af1429990873c9dad519c131b30ad4ac52249de000b77a1"
     },
     {
       "file": "server_waypoint-3.0.4-reworked-forge-mc1.20-1.20.1.jar",
@@ -133,4 +133,3 @@
   ],
   "modCount": 21
 }
-
