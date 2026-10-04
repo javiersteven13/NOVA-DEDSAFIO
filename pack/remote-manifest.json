@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -179,6 +179,16 @@
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocrafting-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/mods/dedsafiocrafting-1.0.0.jar",
       "md5": "4a926f21aacfce34fbb8cad48ab6d79e"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/immersive-portals-3.0.7-all.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/355440/files/6368524/download",
+      "md5": "87762e7aaf56e960e03e088150e8f9f4"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/348521/files/5729105/download",
+      "md5": "ca5de5acbcb4a30c010aa6953bd7ef53"
     }
   ],
   "remove": [

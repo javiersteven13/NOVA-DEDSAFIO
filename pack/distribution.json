@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.10",
+      "version": "1.0.11",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -855,6 +855,26 @@
             "size": 8665
           },
           "subModules": []
+        },
+        {
+          "id": "curse.maven:immersive-portals-for-forge-355440:6368524@jar",
+          "name": "Immersive Portals (Forge)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2137648,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/immersive-portals-3.0.7-all.jar",
+            "MD5": "87762e7aaf56e960e03e088150e8f9f4"
+          }
+        },
+        {
+          "id": "curse.maven:cloth-config-348521:5729105@jar",
+          "name": "Cloth Config API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
         }
       ]
     }
