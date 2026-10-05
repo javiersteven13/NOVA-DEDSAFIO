@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -125,10 +125,10 @@
       "sha256": "e5e14b8adc9f3894b5017a77ca0ebb335f9c1cbcf535330981460fe368ff4461"
     },
     {
-      "file": "dedsafiozoneguard-1.7.1.jar",
-      "size": 61813,
-      "md5": "41073bbe396e9b2ff953d5f8588485a0",
-      "sha256": "86696f9227edea834a2cab8b5fc35afc02d5d25015b88512ab9f4de4e91646a9"
+      "file": "dedsafiozoneguard-1.7.2.jar",
+      "size": 62097,
+      "md5": "7ea693a8142479f573a261305b8ca041",
+      "sha256": "499dcc284816178a3b9a611642f0773c7abdd9b6930e72f17057ff26923a01b8"
     }
   ],
   "modCount": 21

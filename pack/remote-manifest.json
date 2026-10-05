@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -185,10 +185,10 @@
       "md5": "ca5de5acbcb4a30c010aa6953bd7ef53"
     },
     {
-      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.1.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiozoneguard-1.7.1.jar.b64?ref=main",
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.2.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiozoneguard-1.7.2.jar.b64?ref=main",
       "encoding": "base64",
-      "md5": "41073bbe396e9b2ff953d5f8588485a0"
+      "md5": "7ea693a8142479f573a261305b8ca041"
     }
   ],
   "remove": [
@@ -210,6 +210,7 @@
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.6.7.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.6.8.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.6.9.jar",
-    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.0.jar"
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.0.jar",
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.1.jar"
   ]
 }
