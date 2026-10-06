@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.24",
+      "version": "1.0.25",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -483,13 +483,13 @@
           }
         },
         {
-          "id": "com.dedsafio.core:dedsafiocore:1.0.0@jar",
+          "id": "com.dedsafio.core:dedsafiocore:1.1.0-dev.1@jar",
           "name": "DEDSAFIO Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9449,
-            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocore-1.0.0.jar",
-            "MD5": "96ff5071c5ee981195e7bfa3b7fc939b"
+            "size": 99259,
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocore-1.1.0-dev.1.jar",
+            "MD5": "94aed2b541dee24aaae90602f083cfa5"
           }
         },
         {
