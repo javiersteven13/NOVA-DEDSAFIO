@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -131,11 +131,12 @@
       "sha256": "e8330bf2341b2c46801fde7d17202e80f80c69b43ac5a2623b96df7ab655238f"
     },
     {
-      "file": "dedsafioobsidiancreeper-1.0.0.jar",
-      "size": 18653,
-      "md5": "145294a8c7c197d660a97a227e3ce98e",
-      "sha256": "21bebb550d8f529c60eba5db9b6f9cc649f22c5429afbeaf34aec9b860428341"
+      "file": "dedsafioobsidiancreeper-1.0.1.jar",
+      "size": 243887,
+      "md5": "6bdc357d24706743c03b2dc211993598",
+      "sha256": "c89290be137ea6a1f9fb1d54d89855b81b1df4b5ef29e473d80dc77886a9794a"
     }
   ],
   "modCount": 22
 }
+
