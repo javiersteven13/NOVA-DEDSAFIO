@@ -1,5 +1,5 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.26",
+      "version": "1.0.27",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -877,14 +877,14 @@
           }
         },
         {
-          "id": "com.dedsafio.obsidiancreeper:dedsafioobsidiancreeper:1.0.0@jar",
+          "id": "com.dedsafio.obsidiancreeper:dedsafioobsidiancreeper:1.0.1@jar",
           "name": "DEDSAFIO Creeper Obsidiana",
           "type": "ForgeMod",
           "classpath": true,
           "artifact": {
-            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.0.jar",
-            "MD5": "145294a8c7c197d660a97a227e3ce98e",
-            "size": 18653
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.1.jar",
+            "MD5": "6bdc357d24706743c03b2dc211993598",
+            "size": 243887
           },
           "subModules": []
         }
@@ -892,3 +892,4 @@
     }
   ]
 }
+
