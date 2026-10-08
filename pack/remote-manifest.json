@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -191,10 +191,10 @@
       "md5": "94aed2b541dee24aaae90602f083cfa5"
     },
     {
-      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.0.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioobsidiancreeper-1.0.0.jar.b64?ref=main",
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.1.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioobsidiancreeper-1.0.1.jar.b64?ref=main",
       "encoding": "base64",
-      "md5": "145294a8c7c197d660a97a227e3ce98e"
+      "md5": "6bdc357d24706743c03b2dc211993598"
     }
   ],
   "remove": [
@@ -219,5 +219,8 @@
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.0.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.1.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocore-1.0.0.jar"
+    ,
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.0.jar"
   ]
 }
+
