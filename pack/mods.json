@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -29,10 +29,10 @@
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
     },
     {
-      "file": "dedsafioadmin-1.4.4.jar",
-      "size": 77928,
-      "md5": "0becadc5e85fd351e7303dff6e148a03",
-      "sha256": "22c2f4a2782781ea389f78e07149cf31afe9fe43f31a1cd93eaa96ec1028f2b9"
+      "file": "dedsafioadmin-1.4.5.jar",
+      "size": 78434,
+      "md5": "00ce817a025e2cba45c4d59ce3aeab99",
+      "sha256": "b5f434540e76d7b52a6d4f9395a334221facc540f0c3cab39b2ae5e9d102a824"
     },
     {
       "file": "dedsafio-lives-hud-1.0.0.jar",
