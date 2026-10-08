@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -189,6 +189,12 @@
       "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiocore-1.1.0-dev.1.jar.b64?ref=main",
       "encoding": "base64",
       "md5": "94aed2b541dee24aaae90602f083cfa5"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.0.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioobsidiancreeper-1.0.0.jar.b64?ref=main",
+      "encoding": "base64",
+      "md5": "145294a8c7c197d660a97a227e3ce98e"
     }
   ],
   "remove": [
