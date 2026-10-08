@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.28",
+  "version": "1.0.29",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -11,10 +11,10 @@
       "md5": "799513d49096c3a0fad9f29f577beef7"
     },
     {
-      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.4.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.4.4.jar.b64?ref=main",
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.5.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.4.5.jar.b64?ref=main",
       "encoding": "base64",
-      "md5": "0becadc5e85fd351e7303dff6e148a03"
+      "md5": "00ce817a025e2cba45c4d59ce3aeab99"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.1.0.jar",
@@ -221,6 +221,7 @@
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocore-1.0.0.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.0.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.3.0.jar",
-    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.3.jar"
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.3.jar",
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.4.jar"
   ]
 }
