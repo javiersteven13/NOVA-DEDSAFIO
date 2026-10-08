@@ -129,7 +129,13 @@
       "size": 99259,
       "md5": "94aed2b541dee24aaae90602f083cfa5",
       "sha256": "e8330bf2341b2c46801fde7d17202e80f80c69b43ac5a2623b96df7ab655238f"
+    },
+    {
+      "file": "dedsafioobsidiancreeper-1.0.0.jar",
+      "size": 18653,
+      "md5": "145294a8c7c197d660a97a227e3ce98e",
+      "sha256": "21bebb550d8f529c60eba5db9b6f9cc649f22c5429afbeaf34aec9b860428341"
     }
   ],
-  "modCount": 21
+  "modCount": 22
 }
