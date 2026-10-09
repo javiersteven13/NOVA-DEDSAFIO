@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -9,12 +9,6 @@
       "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafio-lives-hud-1.0.0.jar.b64?ref=main",
       "encoding": "base64",
       "md5": "799513d49096c3a0fad9f29f577beef7"
-    },
-    {
-      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.6.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.4.6.jar.b64?ref=main",
-      "encoding": "base64",
-      "md5": "11f566d6eb75a42ed481fe89089195d3"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.1.0.jar",
@@ -195,6 +189,12 @@
       "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioobsidiancreeper-1.0.1.jar.b64?ref=main",
       "encoding": "base64",
       "md5": "6bdc357d24706743c03b2dc211993598"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.7.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.4.7.jar.b64?ref=main",
+      "encoding": "base64",
+      "md5": "70176dee99a093a2722d5bef14cb8b3a"
     }
   ],
   "remove": [
