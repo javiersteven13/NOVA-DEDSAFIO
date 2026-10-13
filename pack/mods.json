@@ -1,6 +1,6 @@
 {
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "minecraft": "1.20.1",
   "forge": "47.4.23",
   "mods": [
@@ -138,9 +138,9 @@
     },
     {
       "file": "dedsafionova-mobs-0.2.0.jar",
-      "size": 541128,
-      "md5": "bfacafb9f1b06c309f0cbd13ed23b840",
-      "sha256": "882ec1c2912d7ed3738dbfdc5c0d9861e9dfbda9bbb2dafb922f1659e41eee5d"
+      "size": 540566,
+      "md5": "c5edef530b7bfd45316dd99faa8656a0",
+      "sha256": "60a015a65d9bbff94a3f317d105faca585243db39de9fd1ca52ba129b64a30a8"
     },
     {
       "file": "geckolib-forge-1.20.1-4.8.4.jar",
