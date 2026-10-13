@@ -2,17 +2,17 @@
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
   "version": "1.0.35",
-  "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
+  "distributionUrl": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json",
   "files": [
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafio-lives-hud-1.0.0.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafio-lives-hud-1.0.0.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafio-lives-hud-1.0.0.jar.b64",
       "encoding": "base64",
       "md5": "799513d49096c3a0fad9f29f577beef7"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/sacos-1.1.0.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/sacos-1.1.0.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/sacos-1.1.0.jar.b64",
       "encoding": "base64",
       "md5": "d915ecbd28e61fcb8c16c8029b30a9f8"
     },
@@ -174,37 +174,37 @@
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiozoneguard-1.7.2.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiozoneguard-1.7.2.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiozoneguard-1.7.2.jar.b64",
       "encoding": "base64",
       "md5": "7ea693a8142479f573a261305b8ca041"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafiocore-1.1.0-dev.1.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafiocore-1.1.0-dev.1.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafiocore-1.1.0-dev.1.jar.b64",
       "encoding": "base64",
       "md5": "94aed2b541dee24aaae90602f083cfa5"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.1.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioobsidiancreeper-1.0.1.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafioobsidiancreeper-1.0.1.jar.b64",
       "encoding": "base64",
       "md5": "6bdc357d24706743c03b2dc211993598"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.7.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.4.7.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafioadmin-1.4.7.jar.b64",
       "encoding": "base64",
       "md5": "70176dee99a093a2722d5bef14cb8b3a"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafionova-mobs-0.2.0.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafionova-mobs-0.2.0.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafionova-mobs-0.2.0.jar.b64",
       "encoding": "base64",
       "md5": "686406b1a6296b79fa2ce2af294dfd63"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
-      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/geckolib-forge-1.20.1-4.8.4.jar.b64?ref=main",
+      "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/geckolib-forge-1.20.1-4.8.4.jar.b64",
       "encoding": "base64",
       "md5": "1b8bd851bc57e2b87e285b98a7d92c76"
     }
