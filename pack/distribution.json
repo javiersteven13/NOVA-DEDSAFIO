@@ -895,7 +895,7 @@
           "classpath": true,
           "artifact": {
             "size": 541128,
-            "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/mods/dedsafionova-mobs-0.2.0.jar",
+            "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafionova-mobs-0.2.0.jar",
             "MD5": "bfacafb9f1b06c309f0cbd13ed23b840"
           },
           "subModules": []
