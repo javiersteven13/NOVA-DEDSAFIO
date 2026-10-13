@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "distributionUrl": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/distribution.json?ref=main",
   "files": [
     {
@@ -195,6 +195,18 @@
       "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafioadmin-1.4.7.jar.b64?ref=main",
       "encoding": "base64",
       "md5": "70176dee99a093a2722d5bef14cb8b3a"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafionova-mobs-0.2.0.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/dedsafionova-mobs-0.2.0.jar.b64?ref=main",
+      "encoding": "base64",
+      "md5": "c5edef530b7bfd45316dd99faa8656a0"
+    },
+    {
+      "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://api.github.com/repos/javiersteven13/NOVA-DEDSAFIO/contents/pack/payloads/geckolib-forge-1.20.1-4.8.4.jar.b64?ref=main",
+      "encoding": "base64",
+      "md5": "1b8bd851bc57e2b87e285b98a7d92c76"
     }
   ],
   "remove": [
@@ -223,6 +235,7 @@
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.3.0.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.3.jar",
     "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.4.jar",
-    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.5.jar"
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioadmin-1.4.5.jar",
+    "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafionova-tunelador-0.1.0.jar"
   ]
 }

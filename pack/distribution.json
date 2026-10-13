@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,7 +7,7 @@
       "name": "DEDSAFIO AMIGOS",
       "description": "NOVA - Minecraft 1.20.1 / Forge 47.4.23",
       "icon": null,
-      "version": "1.0.31",
+      "version": "1.0.32",
       "address": "rails-xm.tun.ply.gg",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -885,6 +885,30 @@
             "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafioobsidiancreeper-1.0.1.jar",
             "MD5": "6bdc357d24706743c03b2dc211993598",
             "size": 243887
+          },
+          "subModules": []
+        },
+        {
+          "id": "local.dedsafionova:dedsafionova-mobs:0.2.0@jar",
+          "name": "DEDSAFÍO NOVA: Cervallum + Tunelador",
+          "type": "ForgeMod",
+          "classpath": true,
+          "artifact": {
+            "size": 540566,
+            "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/mods/dedsafionova-mobs-0.2.0.jar",
+            "MD5": "c5edef530b7bfd45316dd99faa8656a0"
+          },
+          "subModules": []
+        },
+        {
+          "id": "software.bernie:geckolib:4.8.4@jar",
+          "name": "GeckoLib",
+          "type": "ForgeMod",
+          "classpath": true,
+          "artifact": {
+            "size": 1038209,
+            "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/mods/geckolib-forge-1.20.1-4.8.4.jar",
+            "MD5": "1b8bd851bc57e2b87e285b98a7d92c76"
           },
           "subModules": []
         }
