@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "pack": "DEDSAFIO AMIGOS",
-  "version": "1.0.38",
+  "version": "1.0.39",
   "distributionUrl": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/distribution.json",
   "files": [
     {
@@ -200,7 +200,7 @@
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafionova-mobs-0.2.0.jar",
       "url": "https://raw.githubusercontent.com/javiersteven13/NOVA-DEDSAFIO/main/pack/payloads/dedsafionova-mobs-0.2.0.jar.b64",
       "encoding": "base64",
-      "md5": "ee7a5d54ddc3cc1dc3431b40a9df2000"
+      "md5": "89c9197addeead8789431ed511efdcfb"
     },
     {
       "path": "servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
