@@ -1,5 +1,5 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -894,9 +894,9 @@
           "type": "ForgeMod",
           "classpath": true,
           "artifact": {
-            "size": 540566,
+            "size": 540436,
             "url": "http://127.0.0.1:47831/servers/DEDSAFIO_AMIGOS-1.20.1/forgemods/required/dedsafionova-mobs-0.2.0.jar",
-            "MD5": "c5edef530b7bfd45316dd99faa8656a0"
+            "MD5": "686406b1a6296b79fa2ce2af294dfd63"
           },
           "subModules": []
         },
